@@ -22,4 +22,4 @@ Bloc3:
 
     commentaire: 1) quelques difficultés sur la partir linux ( c'est très important)
                  2) Une bonne initiation du scrum/agilité
-    commentaire des autres: à voir avec les autres
+    commentaire des autres: J'ai mis un commentaire
